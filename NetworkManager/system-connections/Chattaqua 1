@@ -1,0 +1,15 @@
+[connection]
+id=Chattaqua 1
+uuid=9c9d3bc5-a7f9-4887-b58e-49c6703a88bc
+type=802-11-wireless
+
+[802-11-wireless]
+ssid=Chattaqua
+mode=infrastructure
+mac-address=DC:85:DE:7D:05:B5
+
+[ipv6]
+method=auto
+
+[ipv4]
+method=auto

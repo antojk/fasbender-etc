@@ -1,0 +1,16 @@
+[connection]
+id=OnePlus One Network
+uuid=778c63d0-147b-46ac-8439-23a455e5a487
+type=bluetooth
+autoconnect=false
+
+[bluetooth]
+bdaddr=C0:EE:FB:30:96:FC
+type=panu
+
+[ipv6]
+method=auto
+
+[ipv4]
+method=auto
+may-fail=false

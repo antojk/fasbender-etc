@@ -1,0 +1,19 @@
+syslog:110000:10000
+messagebus:120000:10000
+usbmux:130000:10000
+dnsmasq:140000:10000
+avahi-autoipd:150000:10000
+kernoops:160000:10000
+rtkit:170000:10000
+whoopsie:180000:10000
+speech-dispatcher:190000:10000
+avahi:200000:10000
+lightdm:210000:10000
+pulse:220000:10000
+hplip:230000:10000
+colord:240000:10000
+saned:250000:10000
+antony:260000:10000
+mysql:270000:10000
+# empty default subuid/subgid file
+mongodb:280000:10000
